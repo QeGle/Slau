@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.la4j:la4j:0.6.0" type="repository">
+    <properties maven-id="org.la4j:la4j:0.6.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/la4j/la4j/0.6.0/la4j-0.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
